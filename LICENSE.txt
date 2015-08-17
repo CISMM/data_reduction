@@ -1,3 +1,3 @@
 UNC has filed for patent protection on the code of this project and intends to license it for commercial use.
 
-Third party libaries that may required in build  are licensed by their respecitive projects/owners.
+Third party libaries that are required in build are licensed by their respecitive projects/owners.
