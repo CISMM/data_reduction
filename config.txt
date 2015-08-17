@@ -1,0 +1,16 @@
+# config parameters...
+>start
+>int
+int RANSAC_METRIC = 7
+int NUMBER_OF_SEGS = 1
+int DILATE_DIM = 7
+int BUFFER_SIZE = 100
+int THRESHOLD_FOR_CORRELATION = 95
+>double
+double KS_ALPHA = 0.05
+>bool
+bool MEMORY_FRIENDLY = false
+bool ONLINE_CALC_MEAN_VAR = true
+bool DO_SLIDING_WINDOWING = true
+>end
+
